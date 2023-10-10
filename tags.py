@@ -1,0 +1,15 @@
+bulding_tags = [
+        {'building' : 'apartments'},
+        {'building' : 'dormitory'}, {'building' : 'hotel'}, 
+        {'building' : 'house'}, {'building' : 'semidetached_house'}, 
+        {'building' : 'terrace'},  {'building' : 'terrace'},  
+        {'building' : 'terrace'}, {'building':'retail'}, 
+        {'building':'train_station'}, {'highway' : 'bus_stop'},
+        {'amenity':'cafe'}, {'amenity':'fast_food'}, 
+        {'amenity':'restaurant'}, {'amenity':'college'}, 
+        {'amenity':'language_school'},  {'amenity':'school'},  
+        {'amenity':'university'},  {'amenity':'atm'},  
+        {'amenity':'bank'},  {'amenity':'clinic'},  
+        {'amenity':'hospital'},  {'amenity':'pharmacy'},  
+        {'amenity':'theatre'},  {'amenity':'bench'}, 
+       ]
